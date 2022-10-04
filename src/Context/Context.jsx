@@ -4,7 +4,7 @@ import axios from "axios";
 const table = {
   sports: 21,
   computer: 18,
-  television: 14,
+  series: 14,
   anime: 31,
 };
 
